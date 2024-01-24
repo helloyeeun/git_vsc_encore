@@ -2,7 +2,11 @@ coach : Tcoach
 
 team : Tigers
 
+<<<<<<< HEAD
 manager : encore
+=======
+manager : encore02
+>>>>>>> conflict-1
 
 members : 
 - a
